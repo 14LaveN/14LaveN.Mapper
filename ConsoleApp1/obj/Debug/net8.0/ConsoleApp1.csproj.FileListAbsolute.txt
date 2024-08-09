@@ -1,0 +1,8 @@
+G:\DotNetProjects\14LaveN.Mapper\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\DotNetProjects\14LaveN.Mapper\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetProjects\14LaveN.Mapper\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\DotNetProjects\14LaveN.Mapper\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+G:\DotNetProjects\14LaveN.Mapper\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\DotNetProjects\14LaveN.Mapper\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+G:\DotNetProjects\14LaveN.Mapper\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+G:\DotNetProjects\14LaveN.Mapper\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
